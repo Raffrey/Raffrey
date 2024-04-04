@@ -1,5 +1,9 @@
 ### Hi there 👋
-I'm currently a Design student at a University working on building my skills as a UX/UI Designer and as a Web Developer. I am learning HTML, CSS, JavaScript and Python to get me started. I strive to learn something new everyday, no matter how small or momentous.
+I'm currently studying a Bachelor of Design majoring in Information Environments at the University of Queensland. <br>
+I am working on building my skills as a UX/UI Designer and as a Web Developer. I am learning HTML, CSS, JavaScript and Python to get me started. I strive to learn something new everyday, no matter how small or momentous.
+<button src ="https://www.linkedin.com/in/ashleigh-lawrence-b9639b2a7/">Linkedin</button>
+<button src="https://app.uxcel.com/ux/ashleighlawrence1">Uxcel</button>
+
 <!--
 **Raffrey/Raffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
