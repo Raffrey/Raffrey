@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently a Design student at a University working on building my skills as a UX/UI Designer and as a Web Developer. I am learning HTML, CSS, JavaScript and Python to get me started. I strive to learn something new everyday, no matter how small or momentous.
 <!--
 **Raffrey/Raffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
